@@ -1,6 +1,5 @@
 # Carpeta de dependencias
 /vendor/
-
 # Archivos generados por el sistema
 composer.lock
 composer.phar
